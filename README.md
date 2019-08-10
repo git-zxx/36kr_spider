@@ -3,7 +3,7 @@
 
 使用方法:
 pycharm打开文件最外层目录
-安装没有安装的包
+安装没有安装的模块(response,BeautifulSoup...)
 在htm_parser.py运行程序
 
 注意:
